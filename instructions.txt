@@ -1,0 +1,5 @@
+1.) run program
+2.) data is already set for alpha, beta, gama, delta, epsilon in data.txt
+3.) draw one of these characters
+4.) select file -> learn and decode...
+5.) let the program to say you what is written
